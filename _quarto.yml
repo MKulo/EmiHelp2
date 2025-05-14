@@ -10,7 +10,7 @@ execute:
   cache: true
 
 website:
-  title: "Hubert Baechli:"
+  title: "Emily:"
   back-to-top-navigation: true
   page-navigation: true
 
@@ -18,7 +18,7 @@ website:
     left:
       - href: index.qmd
         text: Goal
-      - href: LOGO_Hubi.qmd
+      - href: LOGO_Emily.qmd
         text: Logo 
 
 format:
